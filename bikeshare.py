@@ -127,7 +127,7 @@ def trip_duration_stats(df):
 
     # TO DO: display mean travel time
     print("The mean travel time is:", df['Trip Duration'].mean())
-
+    # TO DO: display max and min travel time 
     print("The max travel time is:", df['Trip Duration'].max())
 
 
